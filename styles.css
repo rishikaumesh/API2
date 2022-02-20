@@ -1,0 +1,36 @@
+hero-img {
+    border-radius: 10px;
+  }
+  
+  .btn-c {
+    border-radius: 7px;
+    font-weight: 500;
+  }
+  
+  .font {
+    font-family: "Domine", serif;
+    text-align: center;
+
+  }
+  
+  .input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    size: 50em;
+    background-color: rgb(230, 230, 230);
+    text-decoration: none;
+  }
+  
+  input {
+    border-bottom: none !important;
+    border-bottom: none !important;
+  }
+  
+  input:focus {
+    border-bottom: none !important;
+    box-shadow: none !important;
+  }
+  
+  
